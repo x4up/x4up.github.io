@@ -150,7 +150,24 @@
     padding: 5px;
   }
   
-  h2{
+  #un{
+
+    
+      background-color: rgb(255, 251, 0);
+      border: 2px solid goldenrod;
+      border-radius: 2px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      position:relative;
+      padding: 0; 
+      line-height: 1; 
+      display: inline-block;
+      
+  }
+   
+  #deux{
+
+    
+    background-color: rgb(0, 255, 255);
     border: 2px solid goldenrod;
     border-radius: 2px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -159,4 +176,18 @@
     line-height: 1; 
     display: inline-block;
     
+}
+ 
+#trois{
+
+    
+  background-color: rgb(243, 13, 13);
+  border: 2px solid goldenrod;
+  border-radius: 2px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position:relative;
+  padding: 0; 
+  line-height: 1; 
+  display: inline-block;
+  
 }
